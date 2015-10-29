@@ -36,9 +36,6 @@ public class mainCalleJAXB {
         }catch(JAXBException e){
             e.printStackTrace();
         }
-
-
-
     }
 
     public static void guardar (ROWSETType rt){

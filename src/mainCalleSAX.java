@@ -16,7 +16,7 @@ public class mainCalleSAX {
     public static void main(String[] args) throws FileNotFoundException, ParserConfigurationException, SAXException {
 
         SAXParserFactory factory = SAXParserFactory.newInstance();
-        InputStream is = new FileInputStream("/home/47767573t/git/IdeaWorkSpace/M06/UF01/src/callesBcn.xml");
+        InputStream is = new FileInputStream("/home/47767573t/git/IdeaWorkSpace/M06/UF01/src/carrererBCN.xml");
 
 
         SAXParser saxParser = factory.newSAXParser();
